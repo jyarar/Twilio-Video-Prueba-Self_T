@@ -1,0 +1,2 @@
+-keep class com.twilio.** { *; }
+-keep class tvi.webrtc.** { *; }
